@@ -1,6 +1,6 @@
 # Site settings
-title: ZGJ Blog
-SEOTitle: 郑桂杰的博客 | ZGJ Blog
+title: Zgj Blog
+SEOTitle: 郑桂杰的博客 | Zgj Blog
 header-img: img/home-bg.jpg
 email: zguijie1005@163.com
 description: "郑桂杰, iOS, Swift, SwiftUI | 这里是 @郑桂杰 的个人博客，与你一起发现更大的世界。"
@@ -90,7 +90,7 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 
 
 # Progressive Web Apps
-chrome-tab-theme-color: "#000000"
+chrome-tab-theme-color: "#A0522D"
 service-worker: true
 
 
